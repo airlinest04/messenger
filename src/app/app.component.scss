@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+.column {
+  flex: 1 0 0;
+  padding: 0 20px;
+  overflow: hidden auto;
+}
+
+.exercise {
+  box-shadow: 0 0 15px -3px rgba(0, 0, 0, 0.1);
+}
+
+.playground {
+  padding: 0 30px;
+  border-left: 1px solid #f0f0f0;
+}
